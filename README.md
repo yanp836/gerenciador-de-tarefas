@@ -18,7 +18,7 @@ Projeto simples em Java feito no console, usando Programação Orientada a Objet
    bash
       java -cp src Main
 
-💻 Tecnologias 💻
+##💻 Tecnologias 💻
 
    Java
    Programação Orientada a Objetos (POO)
