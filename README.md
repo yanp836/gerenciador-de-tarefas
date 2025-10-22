@@ -15,8 +15,7 @@ Projeto simples em Java feito no console, usando Programação Orientada a Objet
 Execute o programa:
 
 bash
-Copiar código
-java -cp src Main
+   java -cp src Main
 
 💻 Tecnologias
 
