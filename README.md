@@ -9,7 +9,7 @@ Projeto simples em Java feito no console, usando Programação Orientada a Objet
 - Concluir tarefas  
 - Remover tarefas  
 
-33 🚀 Como executar  🚀
+## 🚀 Como executar  🚀
 
 1. Compile os arquivos:
    ```bash
