@@ -8,11 +8,11 @@ Projeto simples em Java feito no console, usando Programação Orientada a Objet
 - Concluir tarefas  
 - Remover tarefas  
 
-🚀 Como executar
+🚀 Como executar  🚀
 1. Compile os arquivos:
    ```bash
    javac src/*.java
-Execute o programa:
+2. Execute o programa:
 
 bash
    java -cp src Main
